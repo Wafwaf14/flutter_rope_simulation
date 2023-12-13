@@ -27,13 +27,13 @@ This Flutter application is designed to simulate a realistic rope using Flutter 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Wafwaf14/flutter_rope_simulation.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repository
+    cd flutter_rope_simulation
     ```
 
 3. Install dependencies:
@@ -66,6 +66,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Inspired by [mention any inspirations or libraries you've used]
+- Inspired by Spring Package
 
 ---
