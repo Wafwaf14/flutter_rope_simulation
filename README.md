@@ -56,10 +56,6 @@ This Flutter application is designed to simulate a realistic rope using Flutter 
 
 Adjust simulation parameters and customize the rope appearance by modifying relevant variables in the code. Refer to the documentation or inline comments for guidance.
 
-## Contributing
-
-If you'd like to contribute to this project, please follow the [contribution guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
